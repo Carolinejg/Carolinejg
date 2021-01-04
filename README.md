@@ -40,11 +40,11 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=caroline_jg&show_icons=true&theme=radical&include_all_commits=true)
+![Caroline Souza github stats](https://github-readme-stats.vercel.app/api?username=Carolinejg&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinejg&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>
