@@ -44,7 +44,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinejg&theme=radical) <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinejg&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" />
 
 
 <br>
