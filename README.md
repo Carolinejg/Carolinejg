@@ -15,16 +15,27 @@
 
 <br>
 
-## Linguagens e Bibliotecas:
+**💡 Stack Principal:**  
+![Full Stack](https://img.shields.io/badge/-Full%20Stack%20Developer-blueviolet)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![REST API](https://img.shields.io/badge/-REST%20APIs-lightgrey)
+![Microservices](https://img.shields.io/badge/-Microservices-007396)
 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-C-blue?style=flat&logo=&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-C++-blue?style=flat&logo=&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/-JAVA-red?style=flat&logo=java&link=https://github.com/BRdhanani"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhananii"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&link=https://github.com/BRdhanani"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=javascript&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani"/>  
+**⚙️ Frameworks e Ferramentas:**  
+![JPA](https://img.shields.io/badge/-JPA-6d4c41)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
+![JSF](https://img.shields.io/badge/-JSF-blueviolet)
+![PrimeFaces](https://img.shields.io/badge/-PrimeFaces-593d88)
+![WildFly](https://img.shields.io/badge/-WildFly-grey)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## Banco de Dados:
-
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-XAMPP-black?style=flat&logo=xampp&link=https://github.com/BRdhanani"/>
-
-## Frameworks e Ferramentas: 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-ECLIPSE-blue?style=flat&logo=eclipse&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-NetBeans-blue?style=flat&logo=netbeans&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-GIT-orange?style=flat&logo=git&link=https://github.com/BRdhanani"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanan"/>
+**🗄️ Banco de Dados:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ![Caroline Souza github stats](https://github-readme-stats.vercel.app/api?username=Carolinejg&show_icons=true&theme=radical&include_all_commits=true)
 
