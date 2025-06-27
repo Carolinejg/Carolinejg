@@ -2,16 +2,11 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Seja bem vindo(a)!
-    <br><br>
-    Me chamo Caroline mas pode me chamar de Carol :relaxed:
-    <br><br>
-    Sou graduanda de Sistemas de Informação pela Universidade do Estado da Bahia
-    <br><br>
-    Uma desenvolvedora em formação e entusiasta do aprendizado
-    <br><br>
-    Estou estudando desenvolvimento Mobile :iphone: e Web :globe_with_meridians: 
-    <br><br>
+    Seja bem-vindo(a)!<br><br>
+    Me chamo Caroline, mas pode me chamar de Carol 😊<br><br>
+    Sou formada em Sistemas de Informação pela UNEB<br><br>
+    Desenvolvedora Full Stack Java, com foco em soluções para o setor público<br><br>
+    Atualmente atuo na Secretaria de Saúde da Bahia (SESAB)<br><br>
     P.S. Sou apaixonada pela robótica! :robot:
   </samp>
 </p>
