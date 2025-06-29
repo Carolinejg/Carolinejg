@@ -17,7 +17,6 @@
 - 💻 Atuando com Java, JSF, PrimeFaces e Spring Boot  
 - 🛠️ Trabalhando com WildFly, Hibernate, PostgreSQL e Jenkins  
 - 📬 Explorando APIs REST, Postman e arquitetura de microsserviços  
-- 📱 Estudando desenvolvimento Mobile com foco em usabilidade  
 - 📚 Acreditando que tecnologia é movimento!
 
 <p align="center">
